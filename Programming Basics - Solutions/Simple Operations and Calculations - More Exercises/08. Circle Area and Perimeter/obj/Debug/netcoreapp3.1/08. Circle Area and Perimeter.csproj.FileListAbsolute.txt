@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.pdb

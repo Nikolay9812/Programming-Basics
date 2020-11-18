@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\02. Concatenate Data\bin\Debug\netcoreapp3.1\02. Concatenate Data.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\02. Concatenate Data\bin\Debug\netcoreapp3.1\02. Concatenate Data.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\02. Concatenate Data\bin\Debug\netcoreapp3.1\02. Concatenate Data.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\02. Concatenate Data\bin\Debug\netcoreapp3.1\02. Concatenate Data.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\02. Concatenate Data\bin\Debug\netcoreapp3.1\02. Concatenate Data.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\02. Concatenate Data\bin\Debug\netcoreapp3.1\02. Concatenate Data.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\02. Concatenate Data\obj\Debug\netcoreapp3.1\02. Concatenate Data.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\02. Concatenate Data\obj\Debug\netcoreapp3.1\02. Concatenate Data.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\02. Concatenate Data\obj\Debug\netcoreapp3.1\02. Concatenate Data.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\02. Concatenate Data\obj\Debug\netcoreapp3.1\02. Concatenate Data.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\02. Concatenate Data\obj\Debug\netcoreapp3.1\02. Concatenate Data.pdb

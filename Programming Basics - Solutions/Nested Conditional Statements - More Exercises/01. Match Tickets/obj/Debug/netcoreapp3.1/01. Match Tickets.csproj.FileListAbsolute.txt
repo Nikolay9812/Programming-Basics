@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.pdb

@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\asfdasf\bin\Debug\netcoreapp3.1\asfdasf.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\asfdasf\bin\Debug\netcoreapp3.1\asfdasf.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\asfdasf\bin\Debug\netcoreapp3.1\asfdasf.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\asfdasf\bin\Debug\netcoreapp3.1\asfdasf.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\asfdasf\bin\Debug\netcoreapp3.1\asfdasf.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\asfdasf\bin\Debug\netcoreapp3.1\asfdasf.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\asfdasf\obj\Debug\netcoreapp3.1\asfdasf.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\asfdasf\obj\Debug\netcoreapp3.1\asfdasf.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\asfdasf\obj\Debug\netcoreapp3.1\asfdasf.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\asfdasf\obj\Debug\netcoreapp3.1\asfdasf.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\asfdasf\obj\Debug\netcoreapp3.1\asfdasf.pdb

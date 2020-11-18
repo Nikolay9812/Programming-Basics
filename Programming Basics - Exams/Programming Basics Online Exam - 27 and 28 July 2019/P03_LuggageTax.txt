@@ -1,0 +1,50 @@
+﻿using System;
+
+namespace P03_LuggageTax
+{
+    class P03_LuggageTax
+    {
+        static void Main(string[] args)
+        {
+            int width = int.Parse(Console.ReadLine());
+            int height = int.Parse(Console.ReadLine());
+            int length = int.Parse(Console.ReadLine());
+            string hasPriorityTicket = Console.ReadLine();
+
+            int volume = width * height * length;
+            double price = 0;
+
+            if (volume >= 50 && volume <= 100)
+            {
+                if ("false" == hasPriorityTicket)
+                {
+                    price = 25;
+                }
+            }
+            else if (volume > 100 && volume <= 200)
+            {
+                if ("true" == hasPriorityTicket)
+                {
+                    price = 10;
+                }
+                else
+                {
+                    price = 50;
+                }
+            }
+            else if (volume > 200 && volume <= 300)
+            {
+                if ("true" == hasPriorityTicket)
+                {
+                    price = 20;
+                }
+                else
+                {
+                    price = 100;
+                }
+            }
+
+            Console.WriteLine($"Luggage tax: {price:F2}");
+        }
+    }
+}

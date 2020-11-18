@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\08. Scholarship\bin\Debug\netcoreapp3.1\08. Scholarship.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\08. Scholarship\bin\Debug\netcoreapp3.1\08. Scholarship.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\08. Scholarship\bin\Debug\netcoreapp3.1\08. Scholarship.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\08. Scholarship\bin\Debug\netcoreapp3.1\08. Scholarship.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\08. Scholarship\bin\Debug\netcoreapp3.1\08. Scholarship.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\08. Scholarship\bin\Debug\netcoreapp3.1\08. Scholarship.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\08. Scholarship\obj\Debug\netcoreapp3.1\08. Scholarship.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\08. Scholarship\obj\Debug\netcoreapp3.1\08. Scholarship.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\08. Scholarship\obj\Debug\netcoreapp3.1\08. Scholarship.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\08. Scholarship\obj\Debug\netcoreapp3.1\08. Scholarship.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\08. Scholarship\obj\Debug\netcoreapp3.1\08. Scholarship.pdb

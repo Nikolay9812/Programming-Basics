@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\03. Speed Info\bin\Debug\netcoreapp3.1\03. Speed Info.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\03. Speed Info\bin\Debug\netcoreapp3.1\03. Speed Info.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\03. Speed Info\bin\Debug\netcoreapp3.1\03. Speed Info.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\03. Speed Info\bin\Debug\netcoreapp3.1\03. Speed Info.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\03. Speed Info\bin\Debug\netcoreapp3.1\03. Speed Info.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\03. Speed Info\bin\Debug\netcoreapp3.1\03. Speed Info.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\03. Speed Info\obj\Debug\netcoreapp3.1\03. Speed Info.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\03. Speed Info\obj\Debug\netcoreapp3.1\03. Speed Info.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\03. Speed Info\obj\Debug\netcoreapp3.1\03. Speed Info.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\03. Speed Info\obj\Debug\netcoreapp3.1\03. Speed Info.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\03. Speed Info\obj\Debug\netcoreapp3.1\03. Speed Info.pdb

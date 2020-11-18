@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.pdb

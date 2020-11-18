@@ -1,0 +1,10 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.pdb

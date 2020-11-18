@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.pdb

@@ -1,0 +1,10 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Greeting by Name\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.pdb

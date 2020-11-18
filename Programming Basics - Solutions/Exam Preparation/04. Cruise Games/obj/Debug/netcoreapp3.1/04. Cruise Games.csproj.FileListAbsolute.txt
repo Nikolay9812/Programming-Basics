@@ -1,0 +1,10 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\04. Cruise Games\bin\Debug\netcoreapp3.1\04. Cruise Games.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\04. Cruise Games\bin\Debug\netcoreapp3.1\04. Cruise Games.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\04. Cruise Games\bin\Debug\netcoreapp3.1\04. Cruise Games.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\04. Cruise Games\bin\Debug\netcoreapp3.1\04. Cruise Games.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\04. Cruise Games\bin\Debug\netcoreapp3.1\04. Cruise Games.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\04. Cruise Games\bin\Debug\netcoreapp3.1\04. Cruise Games.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\04. Cruise Games\obj\Debug\netcoreapp3.1\04. Cruise Games.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\04. Cruise Games\obj\Debug\netcoreapp3.1\04. Cruise Games.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\04. Cruise Games\obj\Debug\netcoreapp3.1\04. Cruise Games.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\04. Cruise Games\obj\Debug\netcoreapp3.1\04. Cruise Games.pdb

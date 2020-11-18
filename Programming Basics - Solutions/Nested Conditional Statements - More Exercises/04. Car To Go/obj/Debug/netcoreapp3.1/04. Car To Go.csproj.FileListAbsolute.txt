@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.pdb

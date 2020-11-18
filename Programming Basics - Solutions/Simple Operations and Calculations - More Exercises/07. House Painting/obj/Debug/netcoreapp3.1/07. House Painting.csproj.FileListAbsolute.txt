@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.pdb

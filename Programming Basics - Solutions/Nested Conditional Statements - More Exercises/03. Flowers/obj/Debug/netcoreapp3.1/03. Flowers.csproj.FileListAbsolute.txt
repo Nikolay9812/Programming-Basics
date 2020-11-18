@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.pdb

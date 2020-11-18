@@ -1,0 +1,10 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\04. Number 1-9 to Text\bin\Debug\netcoreapp3.1\04. Number 1-9 to Text.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\04. Number 1-9 to Text\bin\Debug\netcoreapp3.1\04. Number 1-9 to Text.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\04. Number 1-9 to Text\bin\Debug\netcoreapp3.1\04. Number 1-9 to Text.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\04. Number 1-9 to Text\bin\Debug\netcoreapp3.1\04. Number 1-9 to Text.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\04. Number 1-9 to Text\bin\Debug\netcoreapp3.1\04. Number 1-9 to Text.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\04. Number 1-9 to Text\bin\Debug\netcoreapp3.1\04. Number 1-9 to Text.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\04. Number 1-9 to Text\obj\Debug\netcoreapp3.1\04. Number 1-9 to Text.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\04. Number 1-9 to Text\obj\Debug\netcoreapp3.1\04. Number 1-9 to Text.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\04. Number 1-9 to Text\obj\Debug\netcoreapp3.1\04. Number 1-9 to Text.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\04. Number 1-9 to Text\obj\Debug\netcoreapp3.1\04. Number 1-9 to Text.pdb

@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\05. Game Of Intervals\bin\Debug\netcoreapp3.1\05. Game Of Intervals.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\05. Game Of Intervals\bin\Debug\netcoreapp3.1\05. Game Of Intervals.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\05. Game Of Intervals\bin\Debug\netcoreapp3.1\05. Game Of Intervals.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\05. Game Of Intervals\bin\Debug\netcoreapp3.1\05. Game Of Intervals.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\05. Game Of Intervals\bin\Debug\netcoreapp3.1\05. Game Of Intervals.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\05. Game Of Intervals\bin\Debug\netcoreapp3.1\05. Game Of Intervals.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\05. Game Of Intervals\obj\Debug\netcoreapp3.1\05. Game Of Intervals.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\05. Game Of Intervals\obj\Debug\netcoreapp3.1\05. Game Of Intervals.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\05. Game Of Intervals\obj\Debug\netcoreapp3.1\05. Game Of Intervals.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\05. Game Of Intervals\obj\Debug\netcoreapp3.1\05. Game Of Intervals.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\05. Game Of Intervals\obj\Debug\netcoreapp3.1\05. Game Of Intervals.pdb

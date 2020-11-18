@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.pdb

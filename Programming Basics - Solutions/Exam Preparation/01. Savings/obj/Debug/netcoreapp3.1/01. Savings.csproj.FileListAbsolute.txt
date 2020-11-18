@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\01. Savings\bin\Debug\netcoreapp3.1\01. Savings.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\01. Savings\bin\Debug\netcoreapp3.1\01. Savings.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\01. Savings\bin\Debug\netcoreapp3.1\01. Savings.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\01. Savings\bin\Debug\netcoreapp3.1\01. Savings.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\01. Savings\bin\Debug\netcoreapp3.1\01. Savings.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\01. Savings\bin\Debug\netcoreapp3.1\01. Savings.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\01. Savings\obj\Debug\netcoreapp3.1\01. Savings.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\01. Savings\obj\Debug\netcoreapp3.1\01. Savings.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\01. Savings\obj\Debug\netcoreapp3.1\01. Savings.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\01. Savings\obj\Debug\netcoreapp3.1\01. Savings.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Exam Preparation\01. Savings\obj\Debug\netcoreapp3.1\01. Savings.pdb

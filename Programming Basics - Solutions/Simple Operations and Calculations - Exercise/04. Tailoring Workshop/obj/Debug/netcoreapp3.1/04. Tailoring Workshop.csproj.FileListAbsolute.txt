@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\04. Tailoring Workshop\bin\Debug\netcoreapp3.1\04. Tailoring Workshop.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\04. Tailoring Workshop\bin\Debug\netcoreapp3.1\04. Tailoring Workshop.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\04. Tailoring Workshop\bin\Debug\netcoreapp3.1\04. Tailoring Workshop.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\04. Tailoring Workshop\bin\Debug\netcoreapp3.1\04. Tailoring Workshop.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\04. Tailoring Workshop\bin\Debug\netcoreapp3.1\04. Tailoring Workshop.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\04. Tailoring Workshop\bin\Debug\netcoreapp3.1\04. Tailoring Workshop.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\04. Tailoring Workshop\obj\Debug\netcoreapp3.1\04. Tailoring Workshop.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\04. Tailoring Workshop\obj\Debug\netcoreapp3.1\04. Tailoring Workshop.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\04. Tailoring Workshop\obj\Debug\netcoreapp3.1\04. Tailoring Workshop.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\04. Tailoring Workshop\obj\Debug\netcoreapp3.1\04. Tailoring Workshop.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\04. Tailoring Workshop\obj\Debug\netcoreapp3.1\04. Tailoring Workshop.pdb

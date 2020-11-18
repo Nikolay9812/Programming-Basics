@@ -1,0 +1,10 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.pdb

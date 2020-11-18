@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\09. Trade Commissions\obj\Debug\netcoreapp3.1\09. Trade Commissions.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\09. Trade Commissions\obj\Debug\netcoreapp3.1\09. Trade Commissions.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\09. Trade Commissions\obj\Debug\netcoreapp3.1\09. Trade Commissions.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\09. Trade Commissions\obj\Debug\netcoreapp3.1\09. Trade Commissions.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\09. Trade Commissions\obj\Debug\netcoreapp3.1\09. Trade Commissions.pdb

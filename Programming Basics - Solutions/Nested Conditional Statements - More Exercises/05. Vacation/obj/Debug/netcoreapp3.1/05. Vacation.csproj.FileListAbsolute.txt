@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.pdb

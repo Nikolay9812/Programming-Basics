@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.pdb

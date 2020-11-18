@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\10. Volleyball\bin\Debug\netcoreapp3.1\10. Volleyball.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\10. Volleyball\bin\Debug\netcoreapp3.1\10. Volleyball.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\10. Volleyball\bin\Debug\netcoreapp3.1\10. Volleyball.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\10. Volleyball\bin\Debug\netcoreapp3.1\10. Volleyball.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\10. Volleyball\bin\Debug\netcoreapp3.1\10. Volleyball.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\10. Volleyball\bin\Debug\netcoreapp3.1\10. Volleyball.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\10. Volleyball\obj\Debug\netcoreapp3.1\10. Volleyball.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\10. Volleyball\obj\Debug\netcoreapp3.1\10. Volleyball.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\10. Volleyball\obj\Debug\netcoreapp3.1\10. Volleyball.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\10. Volleyball\obj\Debug\netcoreapp3.1\10. Volleyball.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\10. Volleyball\obj\Debug\netcoreapp3.1\10. Volleyball.pdb

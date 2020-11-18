@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.pdb

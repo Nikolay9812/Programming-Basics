@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\04. Small Shop\obj\Debug\netcoreapp3.1\04. Small Shop.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\04. Small Shop\obj\Debug\netcoreapp3.1\04. Small Shop.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\04. Small Shop\obj\Debug\netcoreapp3.1\04. Small Shop.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\04. Small Shop\obj\Debug\netcoreapp3.1\04. Small Shop.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Lab\04. Small Shop\obj\Debug\netcoreapp3.1\04. Small Shop.pdb

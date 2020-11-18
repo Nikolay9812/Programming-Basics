@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Part 2 - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Part 2 - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Part 2 - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Part 2 - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Part 2 - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Part 2 - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Part 2 - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Part 2 - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Part 2 - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Part 2 - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Part 2 - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.pdb

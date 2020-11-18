@@ -1,0 +1,10 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\wtte\bin\Debug\netcoreapp3.1\wtte.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\wtte\bin\Debug\netcoreapp3.1\wtte.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\wtte\bin\Debug\netcoreapp3.1\wtte.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\wtte\bin\Debug\netcoreapp3.1\wtte.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\wtte\bin\Debug\netcoreapp3.1\wtte.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\wtte\bin\Debug\netcoreapp3.1\wtte.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\wtte\obj\Debug\netcoreapp3.1\wtte.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\wtte\obj\Debug\netcoreapp3.1\wtte.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\wtte\obj\Debug\netcoreapp3.1\wtte.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\wtte\obj\Debug\netcoreapp3.1\wtte.pdb

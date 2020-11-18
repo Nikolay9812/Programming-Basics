@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp3.1\09. On Time for the Exam.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp3.1\09. On Time for the Exam.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp3.1\09. On Time for the Exam.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp3.1\09. On Time for the Exam.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp3.1\09. On Time for the Exam.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp3.1\09. On Time for the Exam.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\09. On Time for the Exam\obj\Debug\netcoreapp3.1\09. On Time for the Exam.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\09. On Time for the Exam\obj\Debug\netcoreapp3.1\09. On Time for the Exam.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\09. On Time for the Exam\obj\Debug\netcoreapp3.1\09. On Time for the Exam.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\09. On Time for the Exam\obj\Debug\netcoreapp3.1\09. On Time for the Exam.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\09. On Time for the Exam\obj\Debug\netcoreapp3.1\09. On Time for the Exam.pdb

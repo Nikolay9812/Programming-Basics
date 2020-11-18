@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.pdb

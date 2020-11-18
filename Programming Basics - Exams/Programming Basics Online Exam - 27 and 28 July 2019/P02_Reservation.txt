@@ -1,0 +1,51 @@
+﻿using System;
+
+namespace P02_Reservation
+{
+    class P02_Reservation
+    {
+        static void Main(string[] args)
+        {
+            int dayNow = int.Parse(Console.ReadLine());
+            int monthNow = int.Parse(Console.ReadLine());
+
+            int checkInDay = int.Parse(Console.ReadLine());
+            int checkInMonth = int.Parse(Console.ReadLine());
+
+            int checkOutDay = int.Parse(Console.ReadLine());
+            int checkOutMonth = int.Parse(Console.ReadLine());
+
+            int nights = checkOutDay - checkInDay;
+            int daysApart = Math.Abs(dayNow - checkInDay);
+            int monthsApart = Math.Abs(monthNow - checkInMonth);
+
+            bool earlyBooking10days = false;
+            bool earlyBooking1month = false;
+            double price = 30;
+
+            if (daysApart >= 10)
+            {
+                earlyBooking10days = true;
+            }
+
+            if (monthsApart >= 1)
+            {
+                earlyBooking1month = true;
+                earlyBooking10days = true;
+            }
+
+            double cost = nights * price;
+            if (earlyBooking10days)
+            {
+                cost = nights * 25;
+            }
+
+            if (earlyBooking1month)
+            {
+                cost *= 0.8;
+            }
+
+            Console.WriteLine($"Your stay from {checkInDay}/{checkInMonth} to {checkOutDay}/{checkOutMonth} will cost {cost:F2}");
+        }
+    }
+}

@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.pdb

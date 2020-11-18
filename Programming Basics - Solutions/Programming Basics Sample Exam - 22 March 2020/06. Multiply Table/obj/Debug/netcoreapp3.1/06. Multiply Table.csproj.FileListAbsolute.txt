@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.csprojAssemblyReference.cache

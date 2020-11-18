@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\06. Journey\bin\Debug\netcoreapp3.1\06. Journey.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\06. Journey\bin\Debug\netcoreapp3.1\06. Journey.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\06. Journey\bin\Debug\netcoreapp3.1\06. Journey.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\06. Journey\bin\Debug\netcoreapp3.1\06. Journey.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\06. Journey\bin\Debug\netcoreapp3.1\06. Journey.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\06. Journey\bin\Debug\netcoreapp3.1\06. Journey.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\06. Journey\obj\Debug\netcoreapp3.1\06. Journey.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\06. Journey\obj\Debug\netcoreapp3.1\06. Journey.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\06. Journey\obj\Debug\netcoreapp3.1\06. Journey.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\06. Journey\obj\Debug\netcoreapp3.1\06. Journey.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements Advanced - Exercise\06. Journey\obj\Debug\netcoreapp3.1\06. Journey.pdb

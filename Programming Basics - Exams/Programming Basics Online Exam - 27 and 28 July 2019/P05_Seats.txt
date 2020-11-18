@@ -1,0 +1,41 @@
+﻿using System;
+
+namespace P05_Seats
+{
+    class P05_Seats
+    {
+        static void Main(string[] args)
+        {
+            int ticketsCount = int.Parse(Console.ReadLine());
+
+            for (int ticket = 0; ticket < ticketsCount; ticket++)
+            {
+                string ticketNumber = Console.ReadLine();
+                int ticketNumberLen = ticketNumber.Length;
+
+                string seat = "";
+                if (ticketNumberLen == 4)
+                {
+                    char firstChar = ticketNumber[0];
+                    if (firstChar >= 'A' && firstChar <= 'Z')
+                    {
+                        seat += firstChar;
+                    }
+                    else
+                    {
+                        seat += ticketNumber[3];
+                    }
+                    seat += ticketNumber[1];
+                    seat += ticketNumber[2];
+                }
+                else if (ticketNumberLen == 6 || ticketNumberLen == 5)
+                {
+                    seat += ticketNumber[0];
+                    seat += (int)ticketNumber[1];
+                }
+
+                Console.WriteLine($"Seat decoded: {seat}");
+            }
+        }
+    }
+}

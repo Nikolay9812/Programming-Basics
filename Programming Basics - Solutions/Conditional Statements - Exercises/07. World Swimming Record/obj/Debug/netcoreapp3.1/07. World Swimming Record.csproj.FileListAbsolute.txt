@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.pdb

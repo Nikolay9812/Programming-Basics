@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\04. Metric Converter\bin\Debug\netcoreapp3.1\04. Metric Converter.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\04. Metric Converter\bin\Debug\netcoreapp3.1\04. Metric Converter.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\04. Metric Converter\bin\Debug\netcoreapp3.1\04. Metric Converter.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\04. Metric Converter\bin\Debug\netcoreapp3.1\04. Metric Converter.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\04. Metric Converter\bin\Debug\netcoreapp3.1\04. Metric Converter.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\04. Metric Converter\bin\Debug\netcoreapp3.1\04. Metric Converter.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\04. Metric Converter\obj\Debug\netcoreapp3.1\04. Metric Converter.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\04. Metric Converter\obj\Debug\netcoreapp3.1\04. Metric Converter.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\04. Metric Converter\obj\Debug\netcoreapp3.1\04. Metric Converter.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\04. Metric Converter\obj\Debug\netcoreapp3.1\04. Metric Converter.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\04. Metric Converter\obj\Debug\netcoreapp3.1\04. Metric Converter.pdb

@@ -1,0 +1,10 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\05. Bachelor Party\bin\Debug\netcoreapp3.1\05. Bachelor Party.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\05. Bachelor Party\bin\Debug\netcoreapp3.1\05. Bachelor Party.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\05. Bachelor Party\bin\Debug\netcoreapp3.1\05. Bachelor Party.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\05. Bachelor Party\bin\Debug\netcoreapp3.1\05. Bachelor Party.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\05. Bachelor Party\bin\Debug\netcoreapp3.1\05. Bachelor Party.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\05. Bachelor Party\bin\Debug\netcoreapp3.1\05. Bachelor Party.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\05. Bachelor Party\obj\Debug\netcoreapp3.1\05. Bachelor Party.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\05. Bachelor Party\obj\Debug\netcoreapp3.1\05. Bachelor Party.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\05. Bachelor Party\obj\Debug\netcoreapp3.1\05. Bachelor Party.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\05. Bachelor Party\obj\Debug\netcoreapp3.1\05. Bachelor Party.pdb

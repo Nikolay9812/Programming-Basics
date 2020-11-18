@@ -1,0 +1,10 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.pdb

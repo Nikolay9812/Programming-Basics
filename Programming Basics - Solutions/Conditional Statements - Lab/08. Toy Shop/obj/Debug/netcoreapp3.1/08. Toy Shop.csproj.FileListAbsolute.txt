@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\08. Toy Shop\bin\Debug\netcoreapp3.1\08. Toy Shop.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\08. Toy Shop\bin\Debug\netcoreapp3.1\08. Toy Shop.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\08. Toy Shop\bin\Debug\netcoreapp3.1\08. Toy Shop.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\08. Toy Shop\bin\Debug\netcoreapp3.1\08. Toy Shop.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\08. Toy Shop\bin\Debug\netcoreapp3.1\08. Toy Shop.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\08. Toy Shop\bin\Debug\netcoreapp3.1\08. Toy Shop.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\08. Toy Shop\obj\Debug\netcoreapp3.1\08. Toy Shop.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\08. Toy Shop\obj\Debug\netcoreapp3.1\08. Toy Shop.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\08. Toy Shop\obj\Debug\netcoreapp3.1\08. Toy Shop.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\08. Toy Shop\obj\Debug\netcoreapp3.1\08. Toy Shop.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - Lab\08. Toy Shop\obj\Debug\netcoreapp3.1\08. Toy Shop.csprojAssemblyReference.cache

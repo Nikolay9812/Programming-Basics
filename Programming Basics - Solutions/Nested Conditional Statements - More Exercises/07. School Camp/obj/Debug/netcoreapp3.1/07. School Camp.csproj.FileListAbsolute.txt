@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Conditional Statements - More Exercises\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.pdb

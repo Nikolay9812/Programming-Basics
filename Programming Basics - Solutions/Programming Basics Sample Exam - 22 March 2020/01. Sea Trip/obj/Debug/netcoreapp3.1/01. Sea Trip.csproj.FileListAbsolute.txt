@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\01. Sea Trip\bin\Debug\netcoreapp3.1\01. Sea Trip.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\01. Sea Trip\bin\Debug\netcoreapp3.1\01. Sea Trip.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\01. Sea Trip\bin\Debug\netcoreapp3.1\01. Sea Trip.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\01. Sea Trip\bin\Debug\netcoreapp3.1\01. Sea Trip.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\01. Sea Trip\bin\Debug\netcoreapp3.1\01. Sea Trip.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\01. Sea Trip\bin\Debug\netcoreapp3.1\01. Sea Trip.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\01. Sea Trip\obj\Debug\netcoreapp3.1\01. Sea Trip.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\01. Sea Trip\obj\Debug\netcoreapp3.1\01. Sea Trip.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\01. Sea Trip\obj\Debug\netcoreapp3.1\01. Sea Trip.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\01. Sea Trip\obj\Debug\netcoreapp3.1\01. Sea Trip.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\01. Sea Trip\obj\Debug\netcoreapp3.1\01. Sea Trip.pdb

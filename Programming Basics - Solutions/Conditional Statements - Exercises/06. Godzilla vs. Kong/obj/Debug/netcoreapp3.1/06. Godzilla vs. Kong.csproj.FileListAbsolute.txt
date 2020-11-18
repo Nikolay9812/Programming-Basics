@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\06. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\06. Godzilla vs. Kong.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\06. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\06. Godzilla vs. Kong.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\06. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\06. Godzilla vs. Kong.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\06. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\06. Godzilla vs. Kong.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\06. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\06. Godzilla vs. Kong.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\06. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\06. Godzilla vs. Kong.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\06. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\06. Godzilla vs. Kong.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\06. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\06. Godzilla vs. Kong.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\06. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\06. Godzilla vs. Kong.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\06. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\06. Godzilla vs. Kong.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\06. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\06. Godzilla vs. Kong.pdb

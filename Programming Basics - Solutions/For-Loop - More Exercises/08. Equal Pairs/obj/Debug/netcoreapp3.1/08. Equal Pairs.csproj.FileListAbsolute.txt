@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.csprojAssemblyReference.cache

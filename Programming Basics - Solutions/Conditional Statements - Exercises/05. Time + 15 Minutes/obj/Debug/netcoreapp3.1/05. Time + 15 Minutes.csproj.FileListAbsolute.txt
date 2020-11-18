@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\05. Time + 15 Minutes\bin\Debug\netcoreapp3.1\05. Time + 15 Minutes.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\05. Time + 15 Minutes\bin\Debug\netcoreapp3.1\05. Time + 15 Minutes.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\05. Time + 15 Minutes\bin\Debug\netcoreapp3.1\05. Time + 15 Minutes.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\05. Time + 15 Minutes\bin\Debug\netcoreapp3.1\05. Time + 15 Minutes.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\05. Time + 15 Minutes\bin\Debug\netcoreapp3.1\05. Time + 15 Minutes.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\05. Time + 15 Minutes\bin\Debug\netcoreapp3.1\05. Time + 15 Minutes.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\05. Time + 15 Minutes\obj\Debug\netcoreapp3.1\05. Time + 15 Minutes.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\05. Time + 15 Minutes\obj\Debug\netcoreapp3.1\05. Time + 15 Minutes.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\05. Time + 15 Minutes\obj\Debug\netcoreapp3.1\05. Time + 15 Minutes.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\05. Time + 15 Minutes\obj\Debug\netcoreapp3.1\05. Time + 15 Minutes.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\05. Time + 15 Minutes\obj\Debug\netcoreapp3.1\05. Time + 15 Minutes.pdb

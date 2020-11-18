@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.pdb

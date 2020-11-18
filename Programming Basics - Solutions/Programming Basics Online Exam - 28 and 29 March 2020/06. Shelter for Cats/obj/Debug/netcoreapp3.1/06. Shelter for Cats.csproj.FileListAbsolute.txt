@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Shelter for Cats\bin\Debug\netcoreapp3.1\06. Shelter for Cats.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Shelter for Cats\bin\Debug\netcoreapp3.1\06. Shelter for Cats.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Shelter for Cats\bin\Debug\netcoreapp3.1\06. Shelter for Cats.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Shelter for Cats\bin\Debug\netcoreapp3.1\06. Shelter for Cats.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Shelter for Cats\bin\Debug\netcoreapp3.1\06. Shelter for Cats.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Shelter for Cats\bin\Debug\netcoreapp3.1\06. Shelter for Cats.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Shelter for Cats\obj\Debug\netcoreapp3.1\06. Shelter for Cats.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Shelter for Cats\obj\Debug\netcoreapp3.1\06. Shelter for Cats.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Shelter for Cats\obj\Debug\netcoreapp3.1\06. Shelter for Cats.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Shelter for Cats\obj\Debug\netcoreapp3.1\06. Shelter for Cats.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Shelter for Cats\obj\Debug\netcoreapp3.1\06. Shelter for Cats.csprojAssemblyReference.cache

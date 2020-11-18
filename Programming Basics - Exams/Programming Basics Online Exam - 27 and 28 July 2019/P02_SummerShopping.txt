@@ -1,0 +1,30 @@
+﻿using System;
+
+namespace P02_SummerShopping
+{
+    class P02_SummerShopping
+    {
+        static void Main(string[] args)
+        {
+            int budget = int.Parse(Console.ReadLine());
+            double towelPrice = double.Parse(Console.ReadLine());
+            int discountPercent = int.Parse(Console.ReadLine());
+
+            double umbrellaPrice = (towelPrice * 2) / 3;
+            double flipFlopPrice = umbrellaPrice * 0.75;
+            double bagPrice = (flipFlopPrice + towelPrice) / 3;
+
+            double finalPrice = (towelPrice + umbrellaPrice + flipFlopPrice + bagPrice) * (1 - discountPercent / 100.0);
+            double difference = Math.Abs(finalPrice - budget);
+
+            if (finalPrice <= budget)
+            {
+                Console.WriteLine($"Annie's sum is {finalPrice:F2} lv. She has {difference:F2} lv. left.");
+            }
+            else
+            {
+                Console.WriteLine($"Annie's sum is {finalPrice:F2} lv. She needs {difference:F2} lv. more.");
+            }
+        }
+    }
+}

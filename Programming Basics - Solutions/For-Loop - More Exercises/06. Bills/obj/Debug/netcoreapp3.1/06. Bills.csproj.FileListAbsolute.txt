@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\06. Bills\bin\Debug\netcoreapp3.1\06. Bills.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\06. Bills\bin\Debug\netcoreapp3.1\06. Bills.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\06. Bills\bin\Debug\netcoreapp3.1\06. Bills.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\06. Bills\bin\Debug\netcoreapp3.1\06. Bills.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\06. Bills\bin\Debug\netcoreapp3.1\06. Bills.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\06. Bills\bin\Debug\netcoreapp3.1\06. Bills.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\06. Bills\obj\Debug\netcoreapp3.1\06. Bills.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\06. Bills\obj\Debug\netcoreapp3.1\06. Bills.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\06. Bills\obj\Debug\netcoreapp3.1\06. Bills.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\06. Bills\obj\Debug\netcoreapp3.1\06. Bills.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\For-Loop - More Exercises\06. Bills\obj\Debug\netcoreapp3.1\06. Bills.pdb

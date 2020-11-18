@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\01. Sum Seconds\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.pdb

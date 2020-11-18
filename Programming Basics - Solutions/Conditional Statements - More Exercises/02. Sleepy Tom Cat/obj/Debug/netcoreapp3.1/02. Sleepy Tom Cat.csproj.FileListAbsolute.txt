@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.pdb

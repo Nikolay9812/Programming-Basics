@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\03. Sushi Time\bin\Debug\netcoreapp3.1\03. Sushi Time.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\03. Sushi Time\bin\Debug\netcoreapp3.1\03. Sushi Time.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\03. Sushi Time\bin\Debug\netcoreapp3.1\03. Sushi Time.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\03. Sushi Time\bin\Debug\netcoreapp3.1\03. Sushi Time.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\03. Sushi Time\bin\Debug\netcoreapp3.1\03. Sushi Time.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\03. Sushi Time\bin\Debug\netcoreapp3.1\03. Sushi Time.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\03. Sushi Time\obj\Debug\netcoreapp3.1\03. Sushi Time.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\03. Sushi Time\obj\Debug\netcoreapp3.1\03. Sushi Time.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\03. Sushi Time\obj\Debug\netcoreapp3.1\03. Sushi Time.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\03. Sushi Time\obj\Debug\netcoreapp3.1\03. Sushi Time.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Programming Basics Sample Exam - 22 March 2020\03. Sushi Time\obj\Debug\netcoreapp3.1\03. Sushi Time.pdb

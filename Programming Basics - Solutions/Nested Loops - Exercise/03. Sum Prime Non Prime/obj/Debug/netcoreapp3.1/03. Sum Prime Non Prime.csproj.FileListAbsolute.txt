@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.pdb

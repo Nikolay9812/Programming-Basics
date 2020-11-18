@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Loops - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.csprojAssemblyReference.cache

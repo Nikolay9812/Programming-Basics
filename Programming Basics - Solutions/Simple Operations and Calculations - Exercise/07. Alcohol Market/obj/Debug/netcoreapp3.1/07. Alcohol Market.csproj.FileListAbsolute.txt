@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\07. Alcohol Market\bin\Debug\netcoreapp3.1\07. Alcohol Market.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\07. Alcohol Market\bin\Debug\netcoreapp3.1\07. Alcohol Market.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\07. Alcohol Market\bin\Debug\netcoreapp3.1\07. Alcohol Market.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\07. Alcohol Market\bin\Debug\netcoreapp3.1\07. Alcohol Market.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\07. Alcohol Market\bin\Debug\netcoreapp3.1\07. Alcohol Market.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\07. Alcohol Market\bin\Debug\netcoreapp3.1\07. Alcohol Market.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\07. Alcohol Market\obj\Debug\netcoreapp3.1\07. Alcohol Market.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\07. Alcohol Market\obj\Debug\netcoreapp3.1\07. Alcohol Market.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\07. Alcohol Market\obj\Debug\netcoreapp3.1\07. Alcohol Market.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\07. Alcohol Market\obj\Debug\netcoreapp3.1\07. Alcohol Market.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Simple Operations and Calculations Exercise\07. Alcohol Market\obj\Debug\netcoreapp3.1\07. Alcohol Market.pdb
